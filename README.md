@@ -1,5 +1,7 @@
 # Resume Screening App using Machine Learning/NLP
 
+Download Dataset: https://www.kaggle.com/datasets/noorsaeed/resume-datasets
+
 ## Overview
 This project automates the resume screening process using Machine Learning (ML) techniques, enhancing efficiency and accuracy in candidate selection. It includes resume parsing, categorization, and job recommendations based on predefined criteria.
 
